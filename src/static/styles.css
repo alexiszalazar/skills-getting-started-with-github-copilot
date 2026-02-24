@@ -121,6 +121,11 @@ section h3 {
   opacity: 0.75;
 }
 
+.participant-delete:focus {
+  opacity: 0.75;
+  outline: 2px solid #1a237e;
+  outline-offset: 2px;
+}
 .participants-empty {
   margin-bottom: 0;
   color: #5f6b8a;
